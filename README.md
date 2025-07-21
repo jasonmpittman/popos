@@ -6,6 +6,10 @@ The goal is to generate scan traffic that evades detection by intrusion detectio
 
 ---
 
+[![DOI](https://zenodo.org/badge/973618721.svg)](https://doi.org/10.5281/zenodo.16281882)
+
+---
+
 ## Features
 
 - Genetic algorithm evolution of stealthy TCP scans
